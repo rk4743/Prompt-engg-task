@@ -1,0 +1,129 @@
+{
+  "name": "Sarthak Shukla",
+  "contact": {
+    "email": "sarthakshukla.eddy@gmail.com",
+    "phone": "+91-8004683957",
+    "website": "https://sarthakeddy.github.io",
+    "codechef": "https://www.codechef.com/users/sarthak_eddy",
+    "codeforces": "https://codeforces.com/profile/sarthak_eddy",
+    "atcoder": "https://atcoder.jp/users/sarthak_eddy",
+    "linkedin": "https://in.linkedin.com/in/sarthakeddy",
+    "github": "https://github.com/sarthakeddy"
+  },
+  "education": [
+    {
+      "institution": "Indian Institute of Information Technology, Nagpur",
+      "degree": "B.Tech in Computer Science and Engineering",
+      "year": "2018 - 2022",
+      "cgpa": "9.45/10"
+    },
+    {
+      "institution": "Mother Teresa Mission Higher Secondary School, Kanpur",
+      "level": "Senior Secondary",
+      "year": "2016-2018",
+      "percentage": "95.7%"
+    },
+    {
+      "institution": "Mother Teresa Mission Higher Secondary School, Kanpur",
+      "level": "Secondary",
+      "year": "2014-2016",
+      "percentage": "96.2%"
+    }
+  ],
+  "experience": [
+    {
+      "position": "Participant",
+      "organization": "NJACK WINTER OF CODE",
+      "duration": "Dec 2019 - Jan 2020",
+      "description": "Participated in NJACK Winter of Code organised by Indian Institute of Technology, Patna on the lines of Google Summer of Code. Contributed to projects like nwoc-algorithms, learn-for-free."
+    }
+  ],
+  "interests": [
+    "Data Structures",
+    "Algorithms",
+    "Problem Solving",
+    "Competitive Programming",
+    "Software Development"
+  ],
+  "sport_programming": {
+    "codechef": "sarthak eddy",
+    "codeforces": "sarthak eddy",
+    "atcoder": "sarthak eddy"
+  },
+  "projects": [
+    {
+      "name": "Codeforces Profile Viewer",
+      "description": "A Profile Viewer in Python which displays basic information of user, rating changes of user in a particular contest, excel file for user’s contest history. For fetching data Codeforces API is used in JSON."
+    },
+    {
+      "name": "Linux Mini Terminal",
+      "description": "A Linux terminal implemented in C programming language using concepts of fork, exec, signals, pipes etc. Different kinds of interrupts were also handled."
+    },
+    {
+      "name": "Music Player",
+      "description": "A django based music player app, which provides functionality of upload, store and play music by storing on cloud."
+    },
+    {
+      "name": "DotSlash Community Website",
+      "description": "Designed the dotslash community website, where the first year student had the option to practice the questions, discuss any doubts and details about the contest conduct by community."
+    },
+    {
+      "name": "Online Shopping Management System",
+      "description": "An Online Shopping Management system implemented using concepts of OOPs and file handling for storing data in C++."
+    },
+    {
+      "name": "Data Management System",
+      "description": "A student record data management system implemented using AVL trees and Linked Lists and file handling for storing data in C."
+    }
+  ],
+  "technical_skills": {
+    "programming_languages": {
+      "day_to_day": ["C", "C++", "Java"],
+      "familiar": ["Python"]
+    },
+    "web_technologies": ["HTML", "CSS"],
+    "tools_and_frameworks": ["Django", "GIT", "Vim", "LATEX"],
+    "platforms": ["Linux", "Windows"]
+  },
+  "achievements": [
+    {
+      "title": "Four star",
+      "platform": "Codechef",
+      "rating": "1983"
+    },
+    {
+      "title": "Specialist",
+      "platform": "Codeforces",
+      "rating": "1509"
+    },
+    {
+      "title": "Tester and Setter",
+      "platform": "Codechef",
+      "description": "Tester and Setter in Codechef programming contest."
+    },
+    {
+      "title": "Teaching Assistant",
+      "description": "Mentored freshers in competitive programming in December 2019."
+    },
+    {
+      "title": "Inter-IIIT Coding Competition",
+      "position": "Ranked 3rd",
+      "organization": "IIIT Una"
+    },
+    {
+      "title": "NJACK Winter of Code",
+      "position": "Ranked 13th"
+    },
+    {
+      "title": "Coding Competition",
+      "position": "Won 1st prize",
+      "organization": "College"
+    }
+  ],
+  "positions_of_responsibility": [
+    {
+      "title": "Co Secretary and Educator",
+      "organization": "Programming Community at IIIT Nagpur 'dotslash Community'"
+    }
+  ]
+}
